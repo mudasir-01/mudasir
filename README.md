@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @mudasir
-- 👀 I’m interested in coading
-- 🌱 I’m currently learning python
+
